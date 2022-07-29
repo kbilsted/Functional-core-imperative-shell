@@ -71,6 +71,9 @@ http://www.seanh.cc/posts/functional-core-imperative-shell
 BoochTek, LLC  
 http://blog.boochtek.com/category/programming/architecture
 
+DoorDash Engineering
+https://doordash.engineering/2022/07/26/functional-core-imperative-shell-using-structured-concurrency-to-write-maintainable-grpc-endpoints-in-kotlin/
+
 
 # 4. Reality...
 Conceptually, these are nice ideas. But how well do they ride in reality? Here are some of my experiences from C#.
